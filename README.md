@@ -14,10 +14,8 @@ Inorder to have a peaceful background, I added this
 
 Finally, The outlook  will be looking like this
 (Image)
-MOTIVATIONAL
-VIBES
-ONLY
-Tap Here To Get Motivated>
-(Image)![image](https://user-images.githubusercontent.com/110754843/210195909-72faca4d-5056-4891-baae-40c10375f2c7.png)
+
+(Image)![image](https://user-images.githubusercontent.com/110754843/210195994-9cdb5bc4-dac5-4a5f-a676-8cf8a1cda05f.png)
+
 
 The songs are available in English, Tamil, Hindi, Telugu.
